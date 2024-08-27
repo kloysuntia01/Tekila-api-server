@@ -1,0 +1,139 @@
+{
+    "eventItems": [
+        {
+        "name": "NEW SUMMER CELEBRATION MENUS",
+        "slug": "history",
+        "image": "steak_slab_presentation.jpg",
+        "id": 1,
+        "description": "Throw a private event with us before September 29, and wow both your guests and your wallet with our new multi-course Summer Celebration Menus. Whether you're all about dinner or lunch, we've got you covered—because who says you can’t impress on a budget?",
+        "additional_stories": [
+            {
+                "name": "Ideas",
+                "slug": "idea",
+                "image": "",
+                "description":"The Building"
+            },
+            {
+                "name": "The Building",
+                "slug": "the building",
+                "image": "",
+                "description": "Building History"
+            }
+        ]
+        },
+        {
+        "name": "PRIVATE HOLIDAY",
+        "slug": "family",
+        "image": "family.jpeg",
+        "id": 2,
+        "description": "Elevate your corporate holiday party or private event to pure elegance in one of our stunning private dining rooms! Dazzle your guests with festive decorations, mouthwatering prime steaks, and exclusive holiday lunch and dinner menus. Want to go big? You can even book the entire restaurant for an unforgettable experience!",
+        "additional_stories": [
+            {
+                "name": "The Ideas",
+                "slug": "idea",
+                "image": "person_1.jpeg",
+                "description":"The Building"
+            },
+            {
+                "name": "The Drive",
+                "slug": "the drive",
+                "image": "person_2.jpeg",
+                "description": "Building History"
+            },
+            {
+                "name": "The Crazy",
+                "slug": "the crazy",
+                "image": "crazy_1.jpeg",
+                "description": "Building History"
+            },
+            {
+                "name": "The Building",
+                "slug": "the building",
+                "image": "Darnell.jpg",
+                "description": "Building History"
+            }
+        ]
+        },
+        {
+        "name": "WEDDING-RELATED EVENTS & CATERING",
+        "slug": "history",
+        "image": "josper_fire.jpeg",
+        "id": 3,
+        "description": "Whether it's your bridal shower or the big reception, let us help you create a wedding event that’s unforgettable, day or night. Host in one of our private dining rooms with a wedding package, or choose catering, and we'll deliver the celebration to your location of choice.",
+        "additional_stories": [
+            {
+                "name": "The Quality and Passion Fire",
+                "slug": "the qualify",
+                "image": "the_passion_fire.jpeg",
+                "description":"The Building"
+            },
+            {
+                "name": "Josper History",
+                "slug": "the history",
+                "image": "josper_history.jpeg",
+                "description": "The idea belongs to a Spanish company - manufacturer 'Josper' created in 1970 by Pere Juli and Josep Armangue. It was an enclosed charcoal oven where food was cooked at high temperatures. The oven combined the functions of a charcoal grill and a barbecue and the dishes cooked in it remained juicy and fragrant."
+            },
+            {
+                "name": "Our Experience",
+                "slug": "our experience",
+                "image": "experience.jpeg",
+                "description": "Josper Well known"
+            }
+        ]
+        },
+        {
+            "name": "MILESTONE CELEBRATION",
+            "slug": "history",
+            "image": "josper_fire.jpeg",
+            "id": 3,
+            "description": "Make your milestone birthday, anniversary, or retirement party truly special by celebrating in our vibrant private event spaces",
+            "additional_stories": [
+                {
+                    "name": "The Quality and Passion Fire",
+                    "slug": "the qualify",
+                    "image": "the_passion_fire.jpeg",
+                    "description":"The Building"
+                },
+                {
+                    "name": "Josper History",
+                    "slug": "the history",
+                    "image": "josper_history.jpeg",
+                    "description": "The idea belongs to a Spanish company - manufacturer 'Josper' created in 1970 by Pere Juli and Josep Armangue. It was an enclosed charcoal oven where food was cooked at high temperatures. The oven combined the functions of a charcoal grill and a barbecue and the dishes cooked in it remained juicy and fragrant."
+                },
+                {
+                    "name": "Our Experience",
+                    "slug": "our experience",
+                    "image": "experience.jpeg",
+                    "description": "Josper Well known"
+                }
+            ]
+        },
+        {
+            "name": "GRADUATION EVENTS & CATERING",
+            "slug": "history",
+            "image": "josper_fire.jpeg",
+            "id": 3,
+            "description": "Toast your graduate’s hard work with friends, family, and classmates in one of our private dining spaces, or take the celebration anywhere with our group catering options!",
+            "additional_stories": [
+                {
+                    "name": "The Quality and Passion Fire",
+                    "slug": "the qualify",
+                    "image": "the_passion_fire.jpeg",
+                    "description":"The Building"
+                },
+                {
+                    "name": "Josper History",
+                    "slug": "the history",
+                    "image": "josper_history.jpeg",
+                    "description": "The idea belongs to a Spanish company - manufacturer 'Josper' created in 1970 by Pere Juli and Josep Armangue. It was an enclosed charcoal oven where food was cooked at high temperatures. The oven combined the functions of a charcoal grill and a barbecue and the dishes cooked in it remained juicy and fragrant."
+                },
+                {
+                    "name": "Our Experience",
+                    "slug": "our experience",
+                    "image": "experience.jpeg",
+                    "description": "Josper Well known"
+                }
+            ]
+        }
+    ]
+}

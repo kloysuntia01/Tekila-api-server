@@ -1,0 +1,73 @@
+{
+    "menuItems": [
+    {
+        "name": "Totilla Soup",
+        "slug": "",
+        "category": "soup_salad",
+        "image": "",
+        "id": 1,
+        "price": "8",
+        "description": "Fried wonton with chipotle mayonnaise and fresh tuna",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "slug": "cheese",
+                "image": "",
+                "description":"Chiwawah Cheese melted"
+            }
+        ]
+    },
+    {
+        "name": "Frijoles Charros",
+        "slug": "",
+        "category": "soup_salad",
+        "image": "",
+        "id": 2,
+        "price": "8",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Grilled Caesar Salad",
+        "slug": "",
+        "category": "soup_salad",
+        "image": "",
+        "id": 3,
+        "price": "11",
+        "description": "Fresh oysters with mineronette sauce",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+    },
+    {
+        "name": "Grilled Avocado Salad",
+        "slug": "",
+        "category": "soup_salad",
+        "image": "",
+        "id": 4,
+        "price": "15",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+    }
+     
+    ]
+}

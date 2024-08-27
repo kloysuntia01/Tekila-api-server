@@ -1,0 +1,57 @@
+{
+    "menuItems": [
+    {
+        "name": "The Drip",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 1,
+        "price": "25",
+        "description": "Ribeye and Shrt Rib patty with caramalized onion pravalone cheese, smathered with cheddar cheese",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "slug": "cheese",
+                "image": "",
+                "description":"Chiwawah Cheese melted"
+            }
+        ]
+    },
+    {
+        "name": "Tekila Ribeye Burger",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 2,
+        "price": "20",
+        "description": "Classic Burger with lettuce, tomato, cheese and bacon served with Tekila fries",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "BBQ Brisket Sandwich",
+        "slug": "",
+        "category": "appertiser",
+        "image": "",
+        "id": 3,
+        "price": "14",
+        "description": "Brisket smoked for 45 hours with homemade bbq siracha, coleslow and pickles served with Tekila fries",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+        }
+        
+
+    ]
+}

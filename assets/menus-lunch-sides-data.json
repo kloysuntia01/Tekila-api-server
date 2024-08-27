@@ -1,0 +1,140 @@
+{
+    "menuItems": [
+    {
+        "name": "Grilled Veggies",
+        "slug": "tuna_tostada",
+        "category": "",
+        "image": "",
+        "id": 1,
+        "price": "8",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "slug": "cheese",
+                "image": "",
+                "description":"Chiwawah Cheese melted"
+            }
+        ]
+    },
+    {
+        "name": "Esquites",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 2,
+        "price": "6",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Tekila Potato",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 3,
+        "price": "6",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Chorizo Mac & Cheese",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 4,
+        "price": "6",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Mashed Potatoes",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 5,
+        "price": "5",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "tekila Fries",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 6,
+        "price": "6",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Pork Beans",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 7,
+        "price": "6",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Maxican Rice",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 8,
+        "price": "6",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    }
+    ]
+}

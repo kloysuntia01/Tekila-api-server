@@ -1,0 +1,85 @@
+{
+  "ourstories": [
+    {
+      "name": "History",
+      "slug": "history",
+      "image": "/api/images/steak_slab_presentation.jpg",
+      "id": 1,
+      "description": "The Building, The Idea, the Will and The driving force",
+      "additional_stories": [
+        {
+          "name": "Ideas",
+          "slug": "idea",
+          "image": "/api/images/",
+          "description": "The Building"
+        },
+        {
+          "name": "The Building",
+          "slug": "the building",
+          "image": "/api/images/",
+          "description": "Building History"
+        }
+      ]
+    },
+    {
+      "name": "family",
+      "slug": "family",
+      "image": "/api/images/family.jpeg",
+      "id": 2,
+      "description": "The Gomez Family",
+      "additional_stories": [
+        {
+          "name": "The Ideas",
+          "slug": "idea",
+          "image": "/api/images/person_1.jpeg",
+          "description": "The Building"
+        },
+        {
+          "name": "The Drive",
+          "slug": "the drive",
+          "image": "/api/images/person_2.jpeg",
+          "description": "Building History"
+        },
+        {
+          "name": "The Crazy",
+          "slug": "the crazy",
+          "image": "/api/images/crazy_1.jpeg",
+          "description": "Building History"
+        },
+        {
+          "name": "The Building",
+          "slug": "the building",
+          "image": "/api/images/Darnell.jpg",
+          "description": "Building History"
+        }
+      ]
+    },
+    {
+      "name": "Josper",
+      "slug": "history",
+      "image": "/api/images/josper_fire.jpeg",
+      "id": 3,
+      "description": "our origins Josper was born in 1969 when the most innovative technology and tradition joined hands. Created by Pere Juli and Josep Armangué in Pineda de Mar, Barcelona, it has become a legend in the world of charcoal gastronomy. With over 40,000 clients, Josper is the perfect partner for the most demanding chefs who want to achieve the highest quality of grilling over charcoal. We have never forgotten our family origins, or the age-old art of grilling over charcoal, and we always use charcoal from the best wood.",
+      "additional_stories": [
+        {
+          "name": "The Quality and Passion Fire",
+          "slug": "the qualify",
+          "image": "/api/images/the_passion_fire.jpeg",
+          "description": "The Building"
+        },
+        {
+          "name": "Josper History",
+          "slug": "the history",
+          "image": "/api/images/josper_history.jpeg",
+          "description": "The idea belongs to a Spanish company - manufacturer 'Josper' created in 1970 by Pere Juli and Josep Armangue. It was an enclosed charcoal oven where food was cooked at high temperatures. The oven combined the functions of a charcoal grill and a barbecue and the dishes cooked in it remained juicy and fragrant."
+        },
+        {
+          "name": "Our Experience",
+          "slug": "our experience",
+          "image": "/api/images/experience.jpeg",
+          "description": "Josper Well known"
+        }
+      ]
+    }
+  ]
+}

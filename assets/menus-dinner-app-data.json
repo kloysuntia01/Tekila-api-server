@@ -1,0 +1,243 @@
+{
+    "menuItems": [
+    {
+        "name": "Cheese dip",
+        "slug": "cheese_dip",
+        "category": "appertiser",
+        "image": "",
+        "id": 1,
+        "price": "10",
+        "description": "Maxican Style Cheese dip",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "slug": "cheese",
+                "image": "",
+                "description":"Chiwawah Cheese melted"
+            }
+        ]
+    },
+    {
+        "name": "Asparagus Ribeye Roll ups",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 2,
+        "price": "10",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Chicharron de Ribeye",
+        "slug": "",
+        "category": "appertiser",
+        "image": "",
+        "id": 3,
+        "price": "18",
+        "description": "Dice deep fried ribeye with refried beans and hand made corn tortillas",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+        },
+        {
+            "name": "Chicharron de Pulpo",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 4,
+            "price": "18",
+            "description": "Diced deep fried octopus with cherry tomatoes and avocado.",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "3 Amigos Dip",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 5,
+            "price": "18",
+            "description": "Frijoles charros guacamole and cheese dip",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Street Corn",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 6,
+            "price": "12",
+            "description": "Grilled corn with mayonaise queso contijo, hot Cheestos and jalapeno ashes",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Guacamole Tekila",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 7,
+            "price": "MKT",
+            "description": "Home-made guacamole with pork rinds",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Queso fundio",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 8,
+            "price": "15",
+            "description": "Melted chichuachua cheese with fried chorizo and flour tortillas",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Josper Wings (6)",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 9,
+            "price": "18",
+            "description": "Honey sirasha BBO Chipotle and lemon peper",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Tekila Eggroll",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 10,
+            "price": "15",
+            "description": "Brisket eggroll with guacamole and fried rice sheets and mayo chipotle.",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+            },
+        {
+            "name": "Josper Cauliflower",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 11,
+            "price": "15",
+            "description": "Grilled cauliflower with cheese sauce and frosted pistachios",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Grilled Beets",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 12,
+            "price": "15",
+            "description": "Marinated grilled beets with cream pistashios",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Josper Oyster (6)",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 13,
+            "price": "15",
+            "description": "Fresh grilled oysters with jalapeno garlic butter.",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Roasted cabbage",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 14,
+            "price": "24",
+            "description": "Marinated cabbage, josper grilled and smoked creamy our jvs source, roasted almonds and fried parsley. ",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        }
+
+    ]
+}

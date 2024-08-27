@@ -1,0 +1,226 @@
+{
+    "menuItems": [
+    {
+        "name": "Cheese dip",
+        "slug": "cheese_dip",
+        "category": "appertiser",
+        "image": "",
+        "id": 1,
+        "price": "7",
+        "description": "Maxican Style Cheese dip",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "slug": "cheese",
+                "image": "",
+                "description":"Chiwawah Cheese melted"
+            }
+        ]
+    },
+    {
+        "name": "Asparagus Ribeye Roll ups",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 2,
+        "price": "10",
+        "description": "",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Ribeye Chicharron",
+        "slug": "",
+        "category": "appertiser",
+        "image": "",
+        "id": 3,
+        "price": "18",
+        "description": "Deep fried ribeye with refried beans and hand made corn tortillas",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+        },
+        {
+            "name": "3 Amigos Dip",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 4,
+            "price": "18",
+            "description": "Frijoles charros guacamole and cheese dip",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Stree Corn",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 5,
+            "price": "10",
+            "description": "Grilled corn with mayonaise queso contijo, hot Cheestos and jalapeno ashes",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Guacamole Tekila",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 6,
+            "price": "MKT",
+            "description": "Home-made guacamole with pork rinds",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Queso fundio",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 7,
+            "price": "10",
+            "description": "Melted chichuachua cheese with fried chorizo and flour tortillas",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Josper Wings (6)",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 8,
+            "price": "18",
+            "description": "Honey sirasha BBO Chipotle and lemon peper",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Tekila Eggroll",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 9,
+            "price": "15",
+            "description": "Brisket eggroll with guacamole and fried rice sheets and mayo chipotle.",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+            },
+        {
+            "name": "Josper Cauliflower",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 10,
+            "price": "1/2 9 / Full 15",
+            "description": "Grilled cauliflower with cheese sauce and frosted pistachios",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Grilled Beets",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 11,
+            "price": "10",
+            "description": "Marinated grilled beets with cream pistashios",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Josper Oyster (6)",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 12,
+            "price": "15",
+            "description": "Fresh grilled oysters with jalapeno garlic butter.",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Tekila Sampler",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 12,
+            "price": "24",
+            "description": "1 Brisket eggroll, 1 ribeye taco, 1 chicken flauta 1 asparagus ribeye roll up and Maxican corn",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        }
+
+    ]
+}

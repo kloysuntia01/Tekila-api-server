@@ -1,0 +1,73 @@
+{
+    "menuItems": [
+    {
+        "name": "Aguacate Asado",
+        "slug": "",
+        "category": "soup_salad",
+        "image": "",
+        "id": 1,
+        "price": "16",
+        "description": "Lettuce mix with lime vineagrette, panelo cheese, kafamota olive and grilled avocado.",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Grilled Caesar Salad",
+        "slug": "",
+        "category": "soup_salad",
+        "image": "",
+        "id": 2,
+        "price": "15",
+        "description": "Fresh oysters with mineronette sauce",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+    },
+    {
+        "name": "Kole Salad",
+        "slug": "",
+        "category": "soup_salad",
+        "image": "",
+        "id": 4,
+        "price": "16",
+        "description": "Almons beets, cherry tomatoes, orange suppremes, goat cheese, dry cranberry",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+    },
+    {
+        "name": "Totilla Soup",
+        "slug": "",
+        "category": "soup_salad",
+        "image": "",
+        "id": 1,
+        "price": "10",
+        "description": "Fried wonton with chipotle mayonnaise and fresh tuna",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "slug": "cheese",
+                "image": "",
+                "description":"Chiwawah Cheese melted"
+            }
+        ]
+    }
+     
+    ]
+}

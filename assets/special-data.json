@@ -1,0 +1,114 @@
+
+{
+    "dailySpecials": [
+        {
+        "name": "monday",
+        "slug": "monday",
+        "image": "monday_short_rib.jpg",
+        "id": 1,
+        "description": "Monday, evening, Wanna start the evening slow and enjoy? Why not",
+        "includings": [
+            {
+                "name": "Few Wines and Cocktails",
+                "slug": "Wine",
+                "image": "cocktail_drink.jpg",
+                "description":"The Building"
+            },
+            {
+                "name": "Appertiser",
+                "slug": "appertiser",
+                "image": "short_ribs_others.jpg",
+                "description": "What about Josper Oyster Or Something Like Joshper Cauliflower"
+            }
+        ]
+        },
+        {
+        "name": "tuesday",
+        "slug": "tuesday",
+        "image": "monday_short_rib.jpg",
+        "id": 2,
+        "description": "The Gomez Family",
+        "includings": [
+            {
+                "name": "The Ideas",
+                "slug": "idea",
+                "image": "person_1.jpeg",
+                "description":"The Building"
+            },
+            {
+                "name": "The Drive",
+                "slug": "the drive",
+                "image": "person_2.jpeg",
+                "description": "Building History"
+            },
+            {
+                "name": "The Crazy",
+                "slug": "the crazy",
+                "image": "crazy_1.jpeg",
+                "description": "Building History"
+            },
+            {
+                "name": "The Building",
+                "slug": "the building",
+                "image": "Darnell.jpg",
+                "description": "Building History"
+            }
+        ]
+        },
+        {
+        "name": "Wednesday",
+        "slug": "wednesday",
+        "image": "wednesday_porter_house_special.jpg",
+        "id": 3,
+        "description": "our origins Josper was born in 1969 when the most innovative technology and tradition joined hands. Created by Pere Juli and Josep Armangué in Pineda de Mar, Barcelona, it has become a legend in the world of charcoal gastronomy. With over 40,000 clients, Josper is the perfect partner for the most demanding chefs who want to achieve the highest quality of grilling over charcoal. We have never forgotten our family origins, or the age-old art of grilling over charcoal, and we always use charcoal from the best wood.",
+        "includings": [
+            {
+                "name": "The Quality and Passion Fire",
+                "slug": "the qualify",
+                "image": "the_passion_fire.jpeg",
+                "description":"The Building"
+            },
+            {
+                "name": "Josper History",
+                "slug": "the history",
+                "image": "josper_history.jpeg",
+                "description": "The idea belongs to a Spanish company - manufacturer 'Josper' created in 1970 by Pere Juli and Josep Armangue. It was an enclosed charcoal oven where food was cooked at high temperatures. The oven combined the functions of a charcoal grill and a barbecue and the dishes cooked in it remained juicy and fragrant."
+            },
+            {
+                "name": "Our Experience",
+                "slug": "our experience",
+                "image": "experience.jpeg",
+                "description": "Josper Well known"
+            }
+        ]
+        },
+        
+            {
+                "name": "Thursday",
+                "slug": "thursday",
+                "image": "thursday_tomahawk.jpg",
+                "id": 3,
+                "description": "our origins Josper was born in 1969 when the most innovative technology and tradition joined hands. Created by Pere Juli and Josep Armangué in Pineda de Mar, Barcelona, it has become a legend in the world of charcoal gastronomy. With over 40,000 clients, Josper is the perfect partner for the most demanding chefs who want to achieve the highest quality of grilling over charcoal. We have never forgotten our family origins, or the age-old art of grilling over charcoal, and we always use charcoal from the best wood.",
+                "includings": [
+                    {
+                        "name": "The Quality and Passion Fire",
+                        "slug": "the qualify",
+                        "image": "the_passion_fire.jpeg",
+                        "description":"The Building"
+                    },
+                    {
+                        "name": "Josper History",
+                        "slug": "the history",
+                        "image": "josper_history.jpeg",
+                        "description": "The idea belongs to a Spanish company - manufacturer 'Josper' created in 1970 by Pere Juli and Josep Armangue. It was an enclosed charcoal oven where food was cooked at high temperatures. The oven combined the functions of a charcoal grill and a barbecue and the dishes cooked in it remained juicy and fragrant."
+                    },
+                    {
+                        "name": "Our Experience",
+                        "slug": "our experience",
+                        "image": "experience.jpeg",
+                        "description": "Josper Well known"
+                    }
+                ]
+                }
+    ]
+}

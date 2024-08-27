@@ -1,0 +1,202 @@
+{
+    "menuItems": [
+    {
+        "name": "14 Oz Ribeye",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 1,
+        "price": "36",
+        "description": "Josper grilled Ribeye with your choice of side",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "slug": "cheese",
+                "image": "",
+                "description":"Chiwawah Cheese melted"
+            }
+        ]
+    },
+    {
+        "name": "10oz Tenderloin",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 2,
+        "price": "30",
+        "description": "Josper grilled Tenderloin with your choice of side",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Short Rib",
+        "slug": "",
+        "category": "appertiser",
+        "image": "",
+        "id": 3,
+        "price": "35",
+        "description": "12 Hours braised short rib with your choice of side",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+        },
+        {
+            "name": "Grilled Salmon",
+            "slug": "",
+            "category": "",
+            "image": "",
+            "id": 4,
+            "price": "24",
+            "description": "Grilled Salmon with bell pepper confit",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Chicken Mole",
+            "slug": "",
+            "category": "",
+            "image": "",
+            "id": 5,
+            "price": "24",
+            "description": "Mexican chicken mole with Mexican rice and handmade corn tortillas",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+            },
+            {
+                "name": "Chicken Mole Enchiladas",
+                "slug": "",
+                "category": "appertiser",
+                "image": "",
+                "id": 6,
+                "price": "15",
+                "description": "3 enchiladas stuffed with chiplote shredded chicken top with Mexican dark mole, pickled onions, sour cream, queso fresco, seasame seeds with a side of Mexican rice and refried beans",
+                "ingredients": [
+                    {
+                        "name": "",
+                        "slug": "",
+                        "image": "",
+                        "description":""
+                    }
+                ]
+            },
+            {
+                "name": "14oz NY Steak",
+                "slug": "",
+                "category": "appertiser",
+                "image": "",
+                "id": 7,
+                "price": "33",
+                "description": "Josper grilled with your choice of side",
+                "ingredients": [
+                    {
+                        "name": "",
+                        "slug": "",
+                        "image": "",
+                        "description":""
+                    }
+                ]
+                },
+                {
+                    "name": "Enchiladas Suizas",
+                    "slug": "",
+                    "category": "appertiser",
+                    "image": "",
+                    "id": 8,
+                    "price": "35",
+                    "description": "3 enchiladas stuffed with chipotle shredded chicken top with green sour cream sauce melted chihuahua cheese and a side of Mexican rice and refried beans.",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "slug": "",
+                            "image": "",
+                            "description":""
+                        }
+                    ]
+                    },
+                    {
+                        "name": "Pollo Plascencia",
+                        "slug": "",
+                        "category": "appertiser",
+                        "image": "",
+                        "id": 9,
+                        "price": "24",
+                        "description": "Marinated half chicken grilled with chef's special sauce with grilled vegetable mix",
+                        "ingredients": [
+                            {
+                                "name": "",
+                                "slug": "",
+                                "image": "",
+                                "description":""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Carne Asada",
+                        "slug": "",
+                        "category": "",
+                        "image": "",
+                        "id": 10,
+                        "price": "32",
+                        "description": "Grilled onion, rice, beans and home make corn tortillas",
+                        "ingredients": [
+                            {
+                                "name": "",
+                                "slug": "",
+                                "image": "",
+                                "description":""
+                            }
+                        ]
+                        },
+                        {
+                            "name": "Chicken, Cheese and Rice",
+                            "slug": "",
+                            "category": "appertiser",
+                            "image": "",
+                            "id": 11,
+                            "price": "18",
+                            "description": "Grill chicken over a bed of rice topped with cheese dip",
+                            "ingredients": [
+                                {
+                                    "name": "",
+                                    "slug": "",
+                                    "image": "",
+                                    "description":""
+                                }
+                            ]
+                            }
+                            
+                    
+                        
+                
+                        
+                
+                    
+            
+                
+        
+    
+    ]
+}

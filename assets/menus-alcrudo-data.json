@@ -1,0 +1,57 @@
+{
+    "menuItems": [
+    {
+        "name": "Tuna Tostada",
+        "slug": "tuna_tostada",
+        "category": "AL CRUDO",
+        "image": "",
+        "id": 1,
+        "price": "12",
+        "description": "Fried wonton with chipotle mayonnaise and fresh tuna",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "slug": "cheese",
+                "image": "",
+                "description":"Chiwawah Cheese melted"
+            }
+        ]
+    },
+    {
+        "name": "Shrimp Aguachile",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 2,
+        "price": "10",
+        "description": "Lemon pickled shrimp with aguachile sauce",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Oysters",
+        "slug": "",
+        "category": "appertiser",
+        "image": "",
+        "id": 3,
+        "price": "1/2 dozen 12 Dozen 23",
+        "description": "Fresh oysters with mineronette sauce",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+        }
+        
+
+    ]
+}

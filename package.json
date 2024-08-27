@@ -1,0 +1,21 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module" : "module.js",
+  "modules.root": "lib",
+  "scripts": {
+    "start": "nodemon app.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "debug": "^4.3.6",
+    "express": "^4.19.2",
+    "http-errors": "^2.0.0",
+    "lowdb": "~7.0.1",
+    "nodemon": "^3.1.4"
+  }
+}

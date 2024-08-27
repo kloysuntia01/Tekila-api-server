@@ -1,0 +1,126 @@
+{
+    "menuItems": [
+    {
+        "name": "Ribeye Tacos",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 1,
+        "price": "18",
+        "description": "Ribeye sheet with refried beans, cheese crust, avocado and red pickle onions",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "slug": "cheese",
+                "image": "",
+                "description":"Chiwawah Cheese melted"
+            }
+        ]
+    },
+    {
+        "name": "Quesa Birria Tacos",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 2,
+        "price": "16",
+        "description": "Mexican style Birria Tacos",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Grill chicken Tacos",
+        "slug": "",
+        "category": "appertiser",
+        "image": "",
+        "id": 3,
+        "price": "14",
+        "description": "With onion and cilantro served with frijoles charros",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+    },
+    {
+        "name": "Shrimp Tacos",
+        "slug": "",
+        "category": "appertiser",
+        "image": "",
+        "id": 4,
+        "price": "16",
+        "description": "Shrimp chipotle tacos with melted cheese served with Tekila fries",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+    },
+    {
+        "name": "Tacos Nuevo Leon (5)",
+        "slug": "",
+        "category": "appertiser",
+        "image": "",
+        "id": 5,
+        "price": "14",
+        "description": "Small diced rib eye with guacamole, red onion cilantro and hot green sauce",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+    },
+    {
+        "name": "Fish Tacos",
+        "slug": "",
+        "category": "appertiser",
+        "image": "",
+        "id": 6,
+        "price": "16",
+        "description": "Tempura battered fish and coleslow with farfar sauce",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+    },
+    {
+        "name": "Tinga Taquitos",
+        "slug": "",
+        "category": "appertiser",
+        "image": "",
+        "id": 7,
+        "price": "14",
+        "description": "4 deep fried tacos stuffed with chicken tina, top with lettuce, tomato, queso fresco, sour cream and a side of salsa verde and frijoles charros",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+    }
+    
+        
+
+    ]
+}

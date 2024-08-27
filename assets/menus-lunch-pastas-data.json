@@ -1,0 +1,38 @@
+{
+    "menuItems": [
+    {
+        "name": "Shrimp Chipotle Pasta",
+        "slug": "tuna_tostada",
+        "category": "",
+        "image": "",
+        "id": 1,
+        "price": "24",
+        "description": "Lingulni pasta with chipotle sauce, mashroom and butter shrimp",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "slug": "cheese",
+                "image": "",
+                "description":"Chiwawah Cheese melted"
+            }
+        ]
+    },
+    {
+        "name": "Chicken Alfredo",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 2,
+        "price": "10",
+        "description": "Fettuccine pasta with Alfredosauce broccoli and souteed chicken",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    }
+    ]
+}

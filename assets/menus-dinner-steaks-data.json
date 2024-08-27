@@ -1,0 +1,157 @@
+{
+    "menuItems": [
+    {
+        "name": "Ribeye PRIME",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 1,
+        "price": "80",
+        "description": "21oz",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "slug": "cheese",
+                "image": "",
+                "description":"Chiwawah Cheese melted"
+            }
+        ]
+    },
+    {
+        "name": "Tomahawk",
+        "slug": "",
+        "category": "",
+        "image": "",
+        "id": 2,
+        "price": "125",
+        "description": "32oz",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ] 
+    },
+    {
+        "name": "Porterhouse",
+        "slug": "",
+        "category": "appertiser",
+        "image": "",
+        "id": 3,
+        "price": "85",
+        "description": "32oz",
+        "ingredients": [
+            {
+                "name": "",
+                "slug": "",
+                "image": "",
+                "description":""
+            }
+        ]
+        },
+        {
+            "name": "Ribey Choice",
+            "slug": "",
+            "category": "",
+            "image": "",
+            "id": 4,
+            "price": "14ox 38 38oz 65",
+            "description": "",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name": "Tenderloin",
+            "slug": "",
+            "category": "",
+            "image": "",
+            "id": 5,
+            "price": "10oz 33 20oz 50",
+            "description": "",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+            },
+            {
+                "name": "Delmonico",
+                "slug": "",
+                "category": "appertiser",
+                "image": "",
+                "id": 6,
+                "price": "14oz 40 28oz 60",
+                "description": "",
+                "ingredients": [
+                    {
+                        "name": "",
+                        "slug": "",
+                        "image": "",
+                        "description":""
+                    }
+                ]
+            },
+            {
+                "name": "NY Steak 14oz",
+                "slug": "",
+                "category": "appertiser",
+                "image": "",
+                "id": 7,
+                "price": "35",
+                "description": "",
+                "ingredients": [
+                    {
+                        "name": "",
+                        "slug": "",
+                        "image": "",
+                        "description":""
+                    }
+                ]
+                },
+                {
+                    "name": "Brisket (14 Oz)",
+                    "slug": "",
+                    "category": "appertiser",
+                    "image": "",
+                    "id": 8,
+                    "price": "35",
+                    "description": "48 hours cooked brisket with cucumber pico de gallo and handmade tortillas",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "slug": "",
+                            "image": "",
+                            "description":""
+                        }
+                    ]
+        },
+        {
+            "name": "Short rib",
+            "slug": "",
+            "category": "appertiser",
+            "image": "",
+            "id": 9,
+            "price": "45",
+            "description": "Marinated half chicken grilled with chef's special sauce with grilled vegetable mix",
+            "ingredients": [
+                {
+                    "name": "",
+                    "slug": "",
+                    "image": "",
+                    "description":""
+                }
+            ]
+        }
+    ]
+}
