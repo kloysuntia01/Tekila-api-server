@@ -2,7 +2,7 @@
   "name": "api-server",
   "version": "1.0.0",
   "main": "index.js",
-  "module" : "module.js",
+  "module": "module.js",
   "modules.root": "lib",
   "scripts": {
     "start": "nodemon app.mjs"
@@ -12,6 +12,7 @@
   "description": "",
   "dependencies": {
     "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
     "debug": "^4.3.6",
     "express": "^4.19.2",
     "http-errors": "^2.0.0",

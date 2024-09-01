@@ -3,11 +3,13 @@ import createError from 'http-errors';
 import cookieParser from 'cookie-parser';
 import path from 'node:path';
 import historiesRoute from './routes/histories.mjs';
+import cors from 'cors';
 
 const __dirname = import.meta.dirname;
 
 const app = express();
 
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({extended: false}));
 app.use(cookieParser());

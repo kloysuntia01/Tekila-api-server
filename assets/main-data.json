@@ -1,6 +1,7 @@
 {
-  "ourstories": [
+  "ourhistories":[
     {
+
       "name": "History",
       "slug": "history",
       "image": "/api/images/steak_slab_presentation.jpg",
